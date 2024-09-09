@@ -24,7 +24,7 @@ Clone this repository to your local machine
 
 OR use 
 ```sh
-    git clone https://github.com/AyushC24/Youtube-Bookmarker.git
+    git clone https://github.com/sanyam1259/VideoTimeLogger.git
 ```
 Open Google Chrome and go to the Extensions page (chrome://extensions).
 
@@ -35,13 +35,8 @@ Click "Load unpacked" and select the directory where you cloned the repository.
 The YouTube Timestamp Bookmarker extension should now appear in your list of extensions.
 
 ## Images:
-![image](https://github.com/AyushC24/Youtube-Bookmarker/assets/97463208/20d382e7-ef83-4d3f-9cb7-e48a8d45c0cc)
-![image](https://github.com/AyushC24/Youtube-Bookmarker/assets/97463208/c758826b-95f1-4fff-832b-2101cf622ae5)
+![image](https://github.com/sanyam1259/VideoTimeLogger/blob/main/images/test.png)
+![image](https://github.com/sanyam1259/VideoTimeLogger/blob/main/images/bookmarks.png)
 
 ## Contributions
 Any Contributions are welcomed!! Just fork the repo and create a pull request.
-
-## Copyright
-© 2024 Ayush Chandra. All rights reserved.
-
-
