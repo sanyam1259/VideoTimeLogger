@@ -1,0 +1,25 @@
+.bookmark-button {
+    margin-left: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+  }
+  
+  .bookmark-button img {
+    vertical-align: above;
+  }
+  
+  .ytp-notification {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgba(203, 50, 50, 0.8);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 14px;
+    z-index: 1000;
+    transition: opacity 0.5s;
+  }
+  
